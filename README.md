@@ -10,3 +10,5 @@ Modified to remove this line:
 ```
 sudo spctl --master-disable
 ```
+
+Instead I reverted this to enable gatekeeper.
